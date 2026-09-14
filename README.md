@@ -1,8 +1,8 @@
 # Tobias Bach Larsen
 
-Full-stack developer with a network security background: Cisco-certified (CCNA ×3, CyberOps Associate), building the systems I'd want defending, not just the ones I'd want shipping.
+Full-stack developer with a network security background: Cisco-certified (CCNA ×3, CyberOps Associate), Building for the fun of it.
 
-- Recently graduated IT-teknolog (Business Academy Dania, 2026), based in Denmark, open to full-stack, IT-support, and security-adjacent roles
+- IT-teknolog (Business Academy Dania, 2026), based in Denmark, open to full-stack, IT-support, and security-adjacent roles
 - Final exam project: [Lysbro.com](https://github.com/TobiasBachLarsen/Lysbro.com), a self-hosted, GDPR-compliant video platform, top grade
 - [LinkedIn](https://www.linkedin.com/in/tobias-bach-larsen/)
 
