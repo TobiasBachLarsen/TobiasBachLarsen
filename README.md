@@ -24,10 +24,3 @@ Full-stack developer with a network security background: Cisco-certified (CCNA Ã
 ![Suricata](https://img.shields.io/badge/Suricata-CC2936?style=flat-square)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-
-## Selected projects
-
-- **[Lysbro.com](https://github.com/TobiasBachLarsen/Lysbro.com)**: self-hosted, GDPR-compliant video conferencing platform. Next.js, Supabase, self-hosted Jitsi.
-- **[home-soc-lab](https://github.com/TobiasBachLarsen/home-soc-lab)**: Wazuh + Suricata detection lab. SSH brute-force and Nmap scan detection, verified end to end and documented.
-- **[RaceIQ](https://github.com/TobiasBachLarsen/RaceIQ)**: cycling training app connecting Strava with AI-based ride pacing analysis. ASP.NET Core Blazor Server, PostgreSQL, .NET 8.
-- **[Kundesupport](https://github.com/TobiasBachLarsen/Kundesupport)**: GPT-4o customer support triage prototype that classifies inquiries and drafts replies.
